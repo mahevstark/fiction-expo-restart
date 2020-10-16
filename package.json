@@ -1,0 +1,13 @@
+{
+  "name": "fiction-expo-restart",
+  "version": "1.0.4",
+  "description": "This package helps restart app (only works in standalone mode i.e in release apk/ipa)",
+  "main": "index.js",
+  "keywords": [
+    "expo",
+    "expo-restart",
+    "react-native-restart"
+  ],
+  "author": "Fiction Developers",
+  "license": "ISC"
+}
