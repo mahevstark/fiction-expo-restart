@@ -1,5 +1,8 @@
+# New Updates.
+
+
 # Updated Recently, to make it work on new expo versions, and web
-# Expo 40 Supported Now!
+# Expo 44 Supported Now!
 # Android: (Development, Production)
 # iOS: (Development, Production)
 # Web: (Development, Production)
