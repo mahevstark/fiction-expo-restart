@@ -1,8 +1,8 @@
-# New Updates.
+# Expo 45.0.0 updates
 
 
 # Updated Recently, to make it work on new expo versions, and web
-# Expo 44 Supported Now!
+# Expo 45.0.0 Supported Now!
 # Android: (Development, Production)
 # iOS: (Development, Production)
 # Web: (Development, Production)
