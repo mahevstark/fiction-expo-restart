@@ -12,8 +12,6 @@
   "author": "Fiction Developers",
   "license": "ISC",
   "dependencies": {
-    "@unimodules/core": "^7.1.2",
-    "@unimodules/react-native-adapter": "^6.3.9",
     "expo-updates": "^0.4.1"
   }
 }
