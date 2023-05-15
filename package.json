@@ -12,6 +12,6 @@
   "author": "Fiction Developers",
   "license": "ISC",
   "dependencies": {
-    "expo-updates": "^0.4.1"
+    "expo-updates": "^0.16.4"
   }
 }
